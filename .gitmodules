@@ -1,0 +1,3 @@
+[submodule "tp_Paginaire"]
+	path = tp_Paginaire
+	url = https://github.com/debart-nathan/digninamic_TP_Paginaire.git
